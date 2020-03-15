@@ -1,3 +1,3 @@
 console.error("HALP!")
-console.log("I capture log messages")
-console.warn("Hey, you are being warned!")
+console.log("Logging for later...")
+console.warn("I am warning you!")
